@@ -1,0 +1,10 @@
+bin/
+.idea/
+*.sw[pq]
+.DS_Store
+tmp/
+local/
+collected-observations/
+.kube/
+.vscode/
+*.obs/

@@ -1,0 +1,31 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Gardener portmap copier
+Upstream-Contact: The Gardener project <gardener@googlegroups.com>
+Source: https://github.com/gardener/portmap-copier
+
+# --------------------------------------------------
+# source code
+
+Files:
+  .ci/*
+  .github/*
+  .gitignore
+  CODEOWNERS
+  docs/*
+  Dockerfile
+  VERSION
+Copyright: 2022 SAP SE or an SAP affiliate company and Gardener contributors
+License: Apache-2.0
+
+# --------------------------------------------------
+# documentation
+
+Files:
+  CONTRIBUTING.md
+  README.md
+Copyright: 2022 SAP SE or an SAP affiliate company and Gardener contributors
+License: CC-BY-4.0
+
+# --------------------------------------------------
+# source dependencies
+
