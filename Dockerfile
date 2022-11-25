@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 ############# portmap-builder
-FROM alpine:3.16.2 AS portmap-builder
+FROM alpine:3.16.3 AS portmap-builder
 ARG TARGETARCH
 
 RUN apk update \
